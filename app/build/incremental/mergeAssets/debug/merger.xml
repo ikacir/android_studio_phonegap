@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets" >
+            <file
+                name="www/master.css"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/master.css" />
+            <file
+                name="www/main.js"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/main.js" />
+            <file
+                name="www/index.html"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/index.html" />
+            <file
+                name="www/img/cordova.png"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/img/cordova.png" />
+            <file
+                name="www/img/logo.png"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/img/logo.png" />
+            <file
+                name="www/cordova.js"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/cordova.js" />
+            <file
+                name="www/js/index.js"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/js/index.js" />
+            <file
+                name="www/css/index.css"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/css/index.css" />
+            <file
+                name="www/camera.html"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/assets/www/camera.html" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

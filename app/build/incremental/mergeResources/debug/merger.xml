@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_launcher"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-xhdpi/icon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable/icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >AndroidStudioPhoneGap
+                </string>
+            </file>
+            <file
+                name="config"
+                path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/main/res/xml/config.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/ivan/PhonegapProjects/android_studio_phonegap/app/src/debug/res" />
+    </dataSet>
+
+</merger>

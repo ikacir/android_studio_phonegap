@@ -1,5 +1,4 @@
 This is a project to get you started with Phonegap 2.9.1 using Android Studio 0.4.3
-It has the gradle build configurations and should be good to run,
-but it may complain about your gradle settings and ask you to reconfigure your Android Studio path as it is set to mine in this example.
-Select Check Out project from Version Coontrol in Android Studio.
-There is also a link to check if the camera API is working, if it is then you are most likely good to go with Phonegap development.
+It has the gradle build configurations and should be good to run, but it may complain about your gradle settings and ask you to reconfigure your Android Studio path as it is set to mine in this example.
+Select Check Out project from Version Control in Android Studio and paste the link to this repository.
+There is also a link on the main page to check if the camera API is working, if it is then you are most likely good to go with Phonegap development.
